@@ -30,7 +30,6 @@ if resp.status_code==200:
 elif resp.status_code==404:
     pass
     #repeat
-else:
-    
+else: 
     print('invalid link')
     
